@@ -10,7 +10,7 @@ Activity diagram for the proposed system is shown below.
 
 Use case diagram for the proposed system is shown below.
 
-![Usecase](https://github.com/AdityaGautam05/LTTS-C-MiniProject/blob/main/images/UseCase.png)
+![Usecase](https://github.com/tharkarnikita/M1_March_2022/blob/main/2_Architecture/UseCase.jpg)
 
 ## State machine diagram
 
