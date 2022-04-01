@@ -31,7 +31,7 @@
 
 ## SWOT ANALYSIS
 
-![SWOT Analysis](https://github.com/AdityaGautam05/LTTS-C-MiniProject/blob/main/images/swot.png)
+![SWOT Analysis]
 - Strengths
     -  The game combines aspects of tic-tac-toe which makes it really interesting to play owing to the nature of the rules, it is possible for the player to come up        with multiple strategies to conquer the game
 - Weakness
@@ -67,28 +67,22 @@
 
 | ID   | Description                                              | Category  | Status      |
 | ---- | -------------------------------------------------------- | --------- | ----------- |
-| HR01 | User shall be able to login                              | Techincal | IMPLEMENTED |
-| HR02 | Admin shall be able to login                             | Techincal | IMPLEMENTED |
-| HR03 | User shall be able to create account.                    | Techincal | IMPLEMENTED |
-| HR04 | User shall be able to update existing account            | Techincal | IMPLEMENTED |
-| HR05 | User shall be able to perform transactions               | Techincal | IMPLEMENTED |
-| HR06 | User shall be able to check details of existing account  | Techincal | IMPLEMENTED |
-| HR07 | Admin shall be able to remove existing account           | Techincal | IMPLEMENTED |
-| HR08 | Admin shall be able to view customer list                | Technical | IMPLEMENTED |
-| HR09 | Logs will be maintained                                  | Scenario  | FUTURE      |
-| HR10 | Admin shall be able to perform rollbacks of transactions | Technical | FUTURE      |
+| HR01 | User shall be able to access                             | Techincal | IMPLEMENTED |
+| HR02 | Player1 shall be able to choose position                 | Techincal | IMPLEMENTED |
+| HR03 | Player2 shall be able to choose position                 | Techincal | IMPLEMENTED |
+| HR04 | Choices of positions are set respectively                | Techincal | IMPLEMENTED |
+| HR05 | User can see the results displayed                       | Techincal | IMPLEMENTED |
+| HR06 | Extra grids can be added                                 | Scenario  | FUTURE      |
+| HR10 | User shall be able to perform future implementations     | Technical | FUTURE      |
 
 ## Low level Requirements:
 
 | ID   | Description                                                                                                                                                                    | HLR ID | Status (Implemented/Future) |
 | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------ | --------------------------- |
-| LR01 | (1). New account shall be added by providing all the asked information (2). Id should be unique and validated from persistant file or else new account should not be accepted. | HR03   | IMPLEMENTED                 |
-| LR02 | Must be able to login as User.                                                                                                                                                 | HR01   | IMPLEMENTED                 |
-| LR03 | Must be able to login as Admin                                                                                                                                                 | HR02   | FUTURE                      |
-| LR04 | If user tries to create an existing account then the system doesn't allow                                                                                                      | HR03   | IMPLEMENTED                 |
-| LR05 | User can only update an existing account                                                                                                                                       | HR04   | IMPLEMENTED                 |
-| LR06 | User needs to enter account number to perform transation, and if the account doesn't exist then it shows 'No record found'                                                     | HR05   | IMPLEMENTED                 |
-| LR05 | User shall be able to check details of only existing account using account_number/name, if it doesn't exist then it shows 'No record found'                                    | HR06   | IMPLEMENTED                 |
-| LR06 | Admin shall bew able to remove existing account on basis of account number, else 'Record not found'                                                                            | HR07   | IMPLEMENTED                 |
-| LR07 | Admin shall be able to view all customer list in tabular format                                                                                                                | HR08   | IMPLEMENTED                 |
+| LR01 | Player1 choice can be given to set in the position for X. 
+                 | HR02   | IMPLEMENTED                 |      
+| LR02 | Player1 choice can be given to set in the position for O                                                                                                                        | HR03   | IMPLEMENTED                 |
+| LR03 | User can see the results displayed                                                                                                                                              | HR04   | IMPLEMENTED                 |
+| LR04 | Extra grids can be added                                                 
+                 | HR06   | FUTURE                      |
 
