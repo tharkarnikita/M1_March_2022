@@ -2,53 +2,31 @@
 
 ## Introduction
 
--   Recording data in any institution or place of work is typical, and more important for institution like Banks, where records and transaction is what drives the whole.
--   This topic was chosen as it allows me to implement data structures, and further helps me to get a deeper understanding of a structured programming language like C.
+-   Tic-tac-toe is a simple, two-player game that, if played optimally by both players, will always result in a tie. The game is also called noughts and crosses or Xs and Os.Tic-tac-toe is a game that is traditionally played by being drawn on paper, and it can be played on a computer or on a variety of media. Other games, such as Connect 4, are based on this classic.
+-   This topic was chosen as it helps me to understand a structured programming language like C.
 
 ## Objective of the system
 
--   The main objective of the banking system is to provide a tool to efficiently record all data necessary, and also sort it.
+-   Our project name is Tic-Tac-Toe game. This game is very popular and is fairly simple by itself. It is actually a two player game. In this game, there is a board with n x n squares. In our game, it is 3 x 3 squares. The goal of Tic-Tac-Toe is to be one of the players to get three same symbols in a row - horizontally, vertically or diagonally - on a 3 x 3 grid.
 -   The people using it only have to choose what they have to do, and enter the data,everything else is taken care of by the program.
 
 ## Features proposed in the current system
 
--   Two modes of logins provided namely admin and user.The 2 modes have different functionalities, elaborated below.
+-   Two players involved in the game :
+-   A player can choose between two symbols with his opponent, usual games use “X”and “O”. If first player choose “X” then the second player  have to play with “O” and vice versa.  A player marks any of the 3x3 squares with his symbol (may be “X” or “O”) and his aim is to create a straight line horizontally or vertically or diagonally with two intensions:
 
-    -   User requires empty password
-    -   Admin requires password 'admin' to login.
+    -   Create a straight line before his opponent to win the game.
+    -   Restrict his opponent from creating a straight line first.
 
 -   User mode consists of options:
-    -   Create new Account, which requires the data
-        -   Date of creation.
-        -   Account number.
-        -   Name of the Account holder.
-        -   Date of birth.
-        -   Age.
-        -   Address.
-        -   Citizenship number.
-        -   Phone number.
-        -   Amount to be deposited.
-        -   Type of account:
-            -   Savings
-            -   Current
-            -   Fixed1 (for 1 year)
-            -   Fixed2 (for 2 years)
-            -   Fixed3 (for 3 years)
-    -   Update information of existing account. Which gives the choice of changing
-        -   Address
-        -   Phone
-    -   For transations (Requires Account number). Gives you 2 choices:
-        -   Deposit
-        -   Withdraw
-    -   Check details of existing account. Further gives you the choice to search using:
-        -   Account number or,
-        -   Name
-    -   Exit
--   Admin mode has options:
-    -   Removing existing account
-        -   Requires the account number to be removed.
-    -   View Customer's list
-        -   Shows account number, name, address and phone number of all the accounts in a tabular format.
+    -   Enter the position numbers.
+        -  player1 enters a postion number
+        -  player2 enters a position number
+    -    player1 position with X
+    -    player2 position with O
+    -   View winner 
+        -   Shows winner player1 or player2.
+        -   Shows GameDraw if there is a tie.
     -   Exit
 
 ## SWOT ANALYSIS
