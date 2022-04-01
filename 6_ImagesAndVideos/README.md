@@ -8,6 +8,6 @@
 
 ![](https://github.com/tharkarnikita/M1_March_2022/blob/main/images/2022-4-2(3)a.exe.png)
 
-![]()
+![](https://github.com/tharkarnikita/M1_March_2022/blob/main/images/2022-4-2(4)a.exe.png)
 
 ![]()
