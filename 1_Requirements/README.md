@@ -77,12 +77,10 @@
 
 ## Low level Requirements:
 
-| ID   | Description                                                                                                                                                                    | HLR ID | Status (Implemented/Future) |
-| ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------ | --------------------------- |
-| LR01 | Player1 choice can be given to set in the position for X. 
-                 | HR02   | IMPLEMENTED                 |      
-| LR02 | Player1 choice can be given to set in the position for O                                                                                                                        | HR03   | IMPLEMENTED                 |
-| LR03 | User can see the results displayed                                                                                                                                              | HR04   | IMPLEMENTED                 |
-| LR04 | Extra grids can be added                                                 
-                 | HR06   | FUTURE                      |
+| ID   | Description                                              | HRId   | Status (Implemented/Future) |
+| ---- | -------------------------------------------------------- | ------ | --------------------------- |
+| LR01 | Player1 choice can be given to set in the position for X | HR02   | IMPLEMENTED                 |      
+| LR02 | Player1 choice can be given to set in the position for O | HR03   | IMPLEMENTED                 |
+| LR03 | User can see the results displayed                       | HR04   | IMPLEMENTED                 |
+| LR04 | Extra grids can be added                                 | HR06   | FUTURE                      |
 
