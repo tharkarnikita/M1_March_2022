@@ -1,12 +1,12 @@
 # M1_March_2022
 M1_March_2022
 
-# C Bank - A Bank for C Programmers 
+# Tictactoe - A Game for C Programmers 
 
-* C Bank is a project developed by and for C Programmers, it's a Banking application based completely on C Language. The Application has mainly two modes of operation :
+* Tictatoe is a game system project developed by and for C Programmers, it's a Gaming application completely based on C Language. The Application has only one mode operation :
  
 ## User Mode ##
-User can view his/her account details, Update the account details, The Balance in the account, Transfer money to other's account, Get the interest details (Depending upon the eligibility).
+User can view the grid, Enter a number choice for Player1, Enter a number choice for Player2, Result is shown whether as Winner Player1 or Player2 respectively or GameDraw.
 
 ![](https://github.com/AdityaGautam05/LTTS-C-MiniProject/blob/main/images/CBankPoster.png)
 
