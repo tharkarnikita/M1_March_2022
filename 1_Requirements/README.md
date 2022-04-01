@@ -73,7 +73,7 @@
 | HR04 | Choices of positions are set respectively                | Techincal | IMPLEMENTED |
 | HR05 | User can see the results displayed                       | Techincal | IMPLEMENTED |
 | HR06 | Extra grids can be added                                 | Scenario  | FUTURE      |
-| HR10 | User shall be able to perform future implementations     | Technical | FUTURE      |
+| HR07 | User shall be able to perform future implementations     | Technical | FUTURE      |
 
 ## Low level Requirements:
 
