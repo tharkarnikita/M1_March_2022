@@ -8,5 +8,5 @@ M1_March_2022
 ## User Mode ##
 User can view the grid, Enter a number choice for Player1, Enter a number choice for Player2, Result is shown whether as Winner Player1 or Player2 respectively or GameDraw.
 
-![](https://github.com/AdityaGautam05/LTTS-C-MiniProject/blob/main/images/CBankPoster.png)
+![](https://github.com/tharkarnikita/M1_March_2022/blob/main/images/tictactoe.png)
 
