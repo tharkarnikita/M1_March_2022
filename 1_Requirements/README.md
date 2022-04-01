@@ -32,24 +32,34 @@
 ## SWOT ANALYSIS
 
 ![SWOT Analysis](https://github.com/AdityaGautam05/LTTS-C-MiniProject/blob/main/images/swot.png)
+- Strengths
+    -  The game combines aspects of tic-tac-toe which makes it really interesting to play owing to the nature of the rules, it is possible for the player to come up        with multiple strategies to conquer the game
+- Weakness
+    -  Some of the rules defined are ambiguous and might lead to confusion during game play.
+    Only two player can play the game.
+- Opportunities
+    -  The play board and the number of pieces can be increased giving rise to more complex strategies
+    -  The “gobbling” rules can be tweaked around a little bit to make the game simpler(or complex)
+- Threats
+    -  Software problem
 
 # 3W&#39;s and 1&#39;H
 
 ## Who:
 
--   Banks.
+-   Players.
 
 ## What:
 
--   An automated system to record, organise and maintain data for banks.
+-   An automated program to play X and O game for players to position their marks so that they make a continuous line of three cells vertically, horizontally, or diagonally.
 
 ## When:
 
--   When Banks are crowded and staff to customer interactions are at an height, this system allows user to perform simple transactions on this system.
+-   When these tic-tac-toe panels improve hand-eye coordination and encourage better social interaction by better collaborative play.
 
 ## How:
 
--   Effectively organises and maintains data which in return allows easy accessibility.
+-   Effectively organises provides choices of positions to place their X and O respectively in return displays Winner of the game or GameDraw for a tie.
 
 # Detail requirements
 
