@@ -1,0 +1,2 @@
+int checkwin();
+void board();
