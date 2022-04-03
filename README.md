@@ -10,3 +10,8 @@ User can view the grid, Enter a number choice for Player1, Enter a number choice
 
 ![](https://github.com/tharkarnikita/M1_March_2022/blob/main/images/tictactoe.png)
 
+## Code Quality ##
+
+![](https://api.codiga.io/project/32551/score/svg)
+![](https://api.codiga.io/project/32551/status/svg)
+
